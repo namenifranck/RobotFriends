@@ -8,6 +8,7 @@ To run the project:
 # Kubernetes commands
 
 kubectl get deploy
+
 kubectl get svc
 
 ## HELM 
